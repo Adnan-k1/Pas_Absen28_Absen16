@@ -44,7 +44,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:text="Nama: Adnan K"
+                    android:text="Gian Adnan Sumaryo"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     android:layout_width="wrap_content"
@@ -52,6 +52,9 @@
 
                 <TextView
                     android:text="Absen: 16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />                <TextView
+                    android:text="Kelas: 10 PPLG 1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>
@@ -81,7 +84,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:text="Nama: Ozora"
+                    android:text="Ozora Radinka Danadyaksa"
                     android:textSize="18sp"
                     android:textStyle="bold"
                     android:layout_width="wrap_content"
@@ -89,6 +92,9 @@
 
                 <TextView
                     android:text="Absen: 28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />                <TextView
+                    android:text="Kelas : 10 PPLG 1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>
@@ -113,21 +119,5 @@
             android:contentDescription="Foto bersama pembuat aplikasi" />
 
 
-        <TextView
-            android:text="Motivasi Kami"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:layout_marginTop="32dp"
-            android:layout_marginBottom="12dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-
-        <TextView
-            android:text="adek kakak ni bos coba satu lawan satu"
-            android:textSize="16sp"
-            android:gravity="center"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:lineSpacingExtra="6dp" />
     </LinearLayout>
 </ScrollView>
